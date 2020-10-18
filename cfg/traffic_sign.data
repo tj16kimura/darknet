@@ -1,0 +1,5 @@
+classes = 1
+train = cfg/traffic_sign-train.txt
+valid = cfg/traffic_sign-test.txt
+names = data/traffic_sign.names
+backup = backup
